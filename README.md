@@ -1,5 +1,3 @@
-# Product_Card_Component
-Frontend Mentor Design Challenge
 # Project Readme
 
 ## Product Card Component
