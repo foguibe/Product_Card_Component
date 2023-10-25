@@ -55,5 +55,3 @@ The `style.css` file contains CSS rules that style the web page, demonstrating s
 ### Acknowledgments
 
 This project is a coding challenge by [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) and was coded by [Fortune Oguibe](https://github.com/foguibe).
-
-This README summarizes the skills and techniques demonstrated in this project. It serves as a testament to the project creator's abilities in HTML and CSS, emphasizing their understanding of modern web development best practices and their capability to create responsive and visually appealing web pages.
